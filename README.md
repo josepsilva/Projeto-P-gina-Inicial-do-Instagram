@@ -1,2 +1,2 @@
-# Projeto-P-gina-Inicial-do-Instagram
+# Projeto-Página-Inicial-do-Instagram
 Criando a página inicial do Instagram 
